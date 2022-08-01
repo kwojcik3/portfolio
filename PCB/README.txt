@@ -1,0 +1,1 @@
+Projekt wykonania schematu i rozplanowania płytki PCB sensora, na podstawie schematu referencyjnego istniejącej płytki. Zawarto zwięzły opis projektu w pliku pdf.
